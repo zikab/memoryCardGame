@@ -1,0 +1,18 @@
+img.cards{
+	width: 150px;
+	height: 150px;
+	cursor: url(http://ani.cursors-4u.net/food/foo-7/foo656.cur), auto !important;
+	
+}
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+} 
+.space{
+	margin: 10px;
+}
+body{cursor: url(http://ani.cursors-4u.net/food/foo-7/foo657.cur), auto !important;}
+
+cursor: url(http://ani.cursors-4u.net/food/foo-7/foo655.cur), auto !important;
